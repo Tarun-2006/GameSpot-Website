@@ -78,7 +78,7 @@ Contributions to this project are highly encouraged. Please adhere to the follow
     ```
 5.  **Open a Pull Request:** Submit a pull request on GitHub to propose the integration of your changes into the main repository.
 
-**Images**
+**Screenshots**
 
 ![Screenshot 2025-07-09 075923](https://github.com/user-attachments/assets/86285de8-3c6b-46d1-a5f6-a35cfd552caf)
 
